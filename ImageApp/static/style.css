@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: "Roboto","Ubuntu", sans-serif;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: normal;
+    margin-top: 10vh;
+    font-size: calc(5px + 2vmin);
+  }
+
+#scrape {
+display: flex;
+flex-direction: row;
+}
+
+.URL-input {
+  margin-top: 5vh;
+  min-width: 60vw;
+  width: fit-content;
+  height: fit-content;
+  font-size: calc(2px + 2vmin);
+  color: black;
+}
+
+#scrape-button {
+  background-color: burlywood;
+}
+
+.loaded-image {
+  max-width: 90vw;
+  max-height: 70vh;
+  margin-top: 10vh;
+}
