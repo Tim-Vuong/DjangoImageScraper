@@ -6,7 +6,7 @@ DjangoImageScraper is a web app that scrapes an inputted URL for images and disp
 Or visit: https://566bhzmsq6.execute-api.us-west-2.amazonaws.com/dev
 
 ## Demo:
-
+https://user-images.githubusercontent.com/72631688/178116752-953ebc1e-784f-44a7-8428-64108b7d5f82.mp4
 
 ## Motivation
 I wanted to play around with python and web development, so I decided to create an image scraper with Django. Then, I decided to deploy the web app using AWS Lambda. Overall, I wanted to play around with python and web development, so I created a Django Image Scraper.
