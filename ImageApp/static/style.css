@@ -30,7 +30,7 @@ flex-direction: row;
 }
 
 .loaded-image {
-  max-width: 90vw;
-  max-height: 70vh;
+  max-width: 70vw;
+  max-height: 50vh;
   margin-top: 10vh;
 }
